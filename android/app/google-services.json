@@ -1,0 +1,162 @@
+{
+  "project_info": {
+    "project_number": "310618155604",
+    "project_id": "blackboard-83f6c",
+    "storage_bucket": "blackboard-83f6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310618155604:android:117231e67edd961e60dbc1",
+        "android_client_info": {
+          "package_name": "com.company.CUTinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310618155604-nhknkq97q86hr7bq44t8254s4mn989at.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.CUTinder",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "310618155604-lhtdbuk0c6gbbjtl6h1jagmi2ffa7r2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9sXTm3zZrtAPrtoJvUgSJl7jlZuiqdeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310618155604-c4g48dm920eeromq1u30lecqolsla7jo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "310618155604-funvqh6rvo7v6d9p3ipsgbql5f1fa77t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.know2learn"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310618155604:android:03e843e5bed60aab60dbc1",
+        "android_client_info": {
+          "package_name": "com.gebanalysis.kaiswleila"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310618155604-lhtdbuk0c6gbbjtl6h1jagmi2ffa7r2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9sXTm3zZrtAPrtoJvUgSJl7jlZuiqdeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310618155604-c4g48dm920eeromq1u30lecqolsla7jo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "310618155604-funvqh6rvo7v6d9p3ipsgbql5f1fa77t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.know2learn"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310618155604:android:ad4988e5e5fed21a60dbc1",
+        "android_client_info": {
+          "package_name": "com.mycompany.fluttergoopenaigpt3tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310618155604-lhtdbuk0c6gbbjtl6h1jagmi2ffa7r2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9sXTm3zZrtAPrtoJvUgSJl7jlZuiqdeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310618155604-c4g48dm920eeromq1u30lecqolsla7jo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "310618155604-funvqh6rvo7v6d9p3ipsgbql5f1fa77t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.know2learn"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310618155604:android:49624c3465d6de1460dbc1",
+        "android_client_info": {
+          "package_name": "com.mycompany.know2learn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310618155604-lhtdbuk0c6gbbjtl6h1jagmi2ffa7r2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9sXTm3zZrtAPrtoJvUgSJl7jlZuiqdeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310618155604-c4g48dm920eeromq1u30lecqolsla7jo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "310618155604-funvqh6rvo7v6d9p3ipsgbql5f1fa77t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.know2learn"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
